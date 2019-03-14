@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00034788-220B-0110-0032-02A919457335}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GLTFImporter",
+			"Enabled": true
+		}
+	]
+}
