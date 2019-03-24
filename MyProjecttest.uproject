@@ -17,22 +17,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystemGameCircle",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Android"
-			]
-		},
-		{
 			"Name": "OnlineSubsystemFacebook",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemAmazon",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemOculus",
 			"Enabled": true
 		},
 		{
