@@ -3,6 +3,16 @@
 	"EngineAssociation": "{00034788-220B-0110-0032-02A919457335}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyProjecttest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "GLTFImporter",
