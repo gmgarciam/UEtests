@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{4EC9D959-41F9-2EA2-3A94-18AD7615024F}",
+	"EngineAssociation": "{0003C7E6-08D6-CCEE-D97F-CECE5B0420D4}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -17,23 +17,36 @@
 	"Plugins": [
 		{
 			"Name": "GLTFImporter",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineFramework",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineSubsystemGoogle",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineSubsystemFacebook",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "OnlineSubsystemSteam",
+			"Enabled": false
+		},
+		{
+			"Name": "NintendoController",
+			"Enabled": false
+		},
+		{
+			"Name": "NintendoInput",
 			"Enabled": true
+		},
+		{
+			"Name": "MySQL",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4a497572d1014beab577112d5a37c813"
 		}
 	]
 }
